@@ -1,58 +1,14 @@
-<!-- <style>
-    h1 {
-        color: Purple;
-        font-weight: bold;
-    }
-
-    h2 {
-        color: white;
-        font-size: 1.6em;
-    }
-
-    .container-1 {
-        display: flex;
-    }
-
-    .frame1 {
-        width: 48%;
-    }  
-
-    p {
-        color: white;
-        text-align: center;
-        font-size: 1.5em;
-        font-weight: bold;
-    }
-    
-    .frame2 {
-        width: 48%;
-        margin-left: 1.3em;
-    }
-
-    .container-2 {
-        display: flex;
-    }
-
-    .popup {
-        width: 48%;
-    }
-
-    .frame3 {
-        width: 48%;
-        margin-left: 1.3em;
-    }
-
-</style> -->
 <h1>Tic-Tac-Toe</h1>
 <h2>Two-player Tic-Tac-Toe game</h2>
 <br>
+<br>
 
-<div class="container-1">
-    <div class="frame1">
+<div style="display: flex; font-weight: bold; font-size: 1.3em; text-align: center; margin-left: 1em">
+    <div>
         <p>Frame 1</p>
-        <img align="left" width="150" src="README_img/frame1.png">
+        <img src="README_img/frame1.png">
     </div>
-    <div class="frame2">
+    <div style="margin-left: 1.3em;">
         <p>Frame 2</p>
         <img src="README_img/frame2.png">
     </div>
@@ -60,12 +16,12 @@
 
 <br>
 
-<div class="container-2">
-    <div class="popup">
+<div style="display: flex; font-weight: bold; font-size: 1.3em; text-align: center; margin-left: 1em">
+    <div>
         <p>PopUp</p>
         <img src="README_img/popup.png">
     </div>
-    <div class="frame3">
+    <div style="margin-left: 1.3em">
         <p>Frame 3</p>
         <img src="README_img/frame3.png">
     </div>
