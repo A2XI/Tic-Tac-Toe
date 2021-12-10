@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
     h1 {
         color: Purple;
         font-weight: bold;
@@ -42,7 +42,7 @@
         margin-left: 1.3em;
     }
 
-</style>
+</style> -->
 <h1>Tic-Tac-Toe</h1>
 <h2>Two-player Tic-Tac-Toe game</h2>
 <br>
@@ -50,7 +50,7 @@
 <div class="container-1">
     <div class="frame1">
         <p>Frame 1</p>
-        <img src="README_img/frame1.png">
+        <img align="left" width="150" src="README_img/frame1.png">
     </div>
     <div class="frame2">
         <p>Frame 2</p>
